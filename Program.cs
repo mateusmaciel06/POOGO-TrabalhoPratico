@@ -12,4 +12,4 @@ Console.Write("hshfijejifjfisfjieisfjsijsh");
 Console.ReadLine("qual é a quantidade de produtos que deseja adicionar? ");
 
 Console.ReadLine("qual é a quantidade de produtos que deseja adicionar? ");
-
+jifijij
