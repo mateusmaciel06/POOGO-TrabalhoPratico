@@ -7,6 +7,4 @@ Console.WriteLine("Qual é o nome do produto que deseja adicionar? ");
 
 Console.ReadLine("qual é a quantidade de produtos que deseja adicionar? ");
 
-Console.Write("quantos produtos tens em estoque? ");
-
-string? resposta = Console.ReadLine();
+Console.Write("hshsh");
