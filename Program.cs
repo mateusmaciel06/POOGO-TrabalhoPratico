@@ -7,4 +7,4 @@ Console.WriteLine("Qual é o nome do produto que deseja adicionar? ");
 
 Console.ReadLine("qual é a quantidade de produtos que deseja adicionar? ");
 
-Console.Write("hshsh");
+Console.Write("hshfijejifjfisfjieisfjsijsh");
