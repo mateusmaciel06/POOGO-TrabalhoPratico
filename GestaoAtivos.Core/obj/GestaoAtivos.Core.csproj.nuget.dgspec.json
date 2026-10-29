@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elvis\\POOGO-TrabalhoPratico\\AULA1 COM GITHUBE\\AULA1 COM GITHUBE.csproj": {}
+    "C:\\Users\\elvis\\Documents\\POOGO-TrabalhoPratico\\GestaoAtivos.Core\\GestaoAtivos.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elvis\\POOGO-TrabalhoPratico\\AULA1 COM GITHUBE\\AULA1 COM GITHUBE.csproj": {
+    "C:\\Users\\elvis\\Documents\\POOGO-TrabalhoPratico\\GestaoAtivos.Core\\GestaoAtivos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elvis\\POOGO-TrabalhoPratico\\AULA1 COM GITHUBE\\AULA1 COM GITHUBE.csproj",
-        "projectName": "AULA1 COM GITHUBE",
-        "projectPath": "C:\\Users\\elvis\\POOGO-TrabalhoPratico\\AULA1 COM GITHUBE\\AULA1 COM GITHUBE.csproj",
+        "projectUniqueName": "C:\\Users\\elvis\\Documents\\POOGO-TrabalhoPratico\\GestaoAtivos.Core\\GestaoAtivos.Core.csproj",
+        "projectName": "GestaoAtivos.Core",
+        "projectPath": "C:\\Users\\elvis\\Documents\\POOGO-TrabalhoPratico\\GestaoAtivos.Core\\GestaoAtivos.Core.csproj",
         "packagesPath": "C:\\Users\\elvis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elvis\\POOGO-TrabalhoPratico\\AULA1 COM GITHUBE\\obj\\",
+        "outputPath": "C:\\Users\\elvis\\Documents\\POOGO-TrabalhoPratico\\GestaoAtivos.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elvis\\AppData\\Roaming\\NuGet\\NuGet.Config"

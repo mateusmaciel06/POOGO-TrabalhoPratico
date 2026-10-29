@@ -1,0 +1,15 @@
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\bin\Debug\net10.0\GestaoAtivos.Core.exe
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\bin\Debug\net10.0\GestaoAtivos.Core.deps.json
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\bin\Debug\net10.0\GestaoAtivos.Core.runtimeconfig.json
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\bin\Debug\net10.0\GestaoAtivos.Core.dll
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\bin\Debug\net10.0\GestaoAtivos.Core.pdb
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.AssemblyInfoInputs.cache
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.AssemblyInfo.cs
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.sourcelink.json
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.dll
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\refint\GestaoAtivos.Core.dll
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.pdb
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\GestaoAtivos.Core.genruntimeconfig.cache
+C:\Users\elvis\Documents\POOGO-TrabalhoPratico\GestaoAtivos.Core\obj\Debug\net10.0\ref\GestaoAtivos.Core.dll
