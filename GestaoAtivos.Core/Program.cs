@@ -21,12 +21,12 @@ namespace GestaoAtivos.core
 
             }
             // Adicionando ativos
-            inventario.Add(new Ativo("Computador", "Eletrônicos", 3000.00m, 5, "Ativo"));
-            ativos.Add(new Ativo("Mesa", "Móveis", 500.00m, 10, "Ativo"));
-            ativos.Add(new Ativo("Carro", "Veículos", 20000.00m, 8, "Ativo"));
+            Inventario.Add(new Ativo("Computador", "Eletrônicos", 3000.00m, 5, "Ativo"));
+            Inventario.Add(new Ativo("Mesa", "Móveis", 500.00m, 10, "Ativo"));
+            Inventario.Add(new Ativo("Carro", "Veículos", 20000.00m, 8, "Ativo"));
 
             // Exibindo detalhes dos ativos
-            foreach (var ativo in ativos)
+            foreach (var ativo in Inventario)
             {
                 ativo.ExibirDetalhes();
                 Console.WriteLine($"Amortização Anual: {ativo.CalcularAmortizacaoAnual():C}");
