@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoAtivos.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cc08c5fbf368a227c54f27eb72b6a61d50674c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11bb2f1eed019d40b2a3907095e473d1a5a667ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoAtivos.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoAtivos.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
