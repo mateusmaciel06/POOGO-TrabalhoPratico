@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Collections,Generic;
-namespace GestaoAtivos.Core
+using System.Collections.Generic;
+namespace GestaoAtivos.core
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace GestaoAtivos.Core
 
             }
             // Adicionando ativos
-            ativos.Add(new Ativo("Computador", "Eletrônicos", 3000.00m, 5, "Ativo"));
+            inventario.Add(new Ativo("Computador", "Eletrônicos", 3000.00m, 5, "Ativo"));
             ativos.Add(new Ativo("Mesa", "Móveis", 500.00m, 10, "Ativo"));
             ativos.Add(new Ativo("Carro", "Veículos", 20000.00m, 8, "Ativo"));
 
